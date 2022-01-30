@@ -128,7 +128,7 @@ Honors and Awards
 Skills
 -----
 * Language:
-  * Chinese
+  * Chinese (Mandarin)
   * English 
 * Programming Language:
   * Python
