@@ -89,7 +89,7 @@ Research Experience
     * Made Plans about WorkStation in Lab
     * Bought WorkStation and Prepared Environments
     * Daily Maintenance
-  * Supervisor: Assistant Professor Wang Yaojun in CAU
+  * Supervisor: Associated Professor Wang Yaojun in CAU
 
 * 2021-03~2022-03: **Research Project**
   * College of Information and Electrical Engineering
@@ -100,7 +100,7 @@ Research Experience
     * Improved YOLOv5 with Multi-network Blocks
     * Lightweight Network and Decreased Parameters
     * Developed an Android APP to Detect Apple Leaf Disease 
-  * Supervisor: Assistant Professor Wang Yaojun in CAU
+  * Supervisor: Associated Professor Wang Yaojun in CAU
   * Area: Computer Vision, One-Stage Detection, Leaf Diseases
 
 * 2019-11~2020-10: **Research Project**
@@ -110,7 +110,7 @@ Research Experience
   * Duties included: 
     * Labeled Datasets of Friuts
     * Developed a Fruits Detection Desktop Application 
-  * Supervisor: Assistant Professor Liu Yunling in CAU
+  * Supervisor: Associated Professor Liu Yunling in CAU
 
 Honors and Awards
 -----
@@ -160,17 +160,17 @@ References
 >The following rankings are **not** in any order of precedence.
 >The following professors have helped me in different ways, not only academically, but also by teaching me how to be a great student, how to keep a respectful heart for academics and to keep my feet on the ground.
 
-* **Dr.Wang Yaojun**, **Assistant Professor**
+* **Dr.Wang Yaojun**, **Associated Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
   * email: wangyaojun@cau.edu.cn
 
-* **Dr.Yang Ying**, **Assistant Professor**
+* **Dr.Yang Ying**, **Associated Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
   * email: hbxtyy@126.com
 
-<!-- * **Dr.Tao Sha**, **Assistant Professor**
+<!-- * **Dr.Tao Sha**, **Associated Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
   * email:taos@cau.edu.cn -->
