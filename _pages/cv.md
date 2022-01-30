@@ -163,7 +163,7 @@ References
 * **Dr.Wang Yaojun**, **Assistant Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
-  * email: 
+  * email: wangyaojun@cau.edu.cn
 
 * **Dr.Yang Ying**, **Assistant Professor**
   * College of Information and Electrical Engineering
