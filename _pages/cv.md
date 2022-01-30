@@ -73,7 +73,7 @@ Research Experience
     * 2D Human Body Keypoint Detection from Image
     * 3D Human Reconstruction 
     * Acupuncture Point Finding
-  * Supervisor: PhD Liping Zhang in IS,CAS
+  * Supervisor: Dr.Zhang Liping in IS,CAS
 
 * 2021-12～2022-12: **Baidu Corp., Songguo Project**
   * Baidu Inc
@@ -89,7 +89,7 @@ Research Experience
     * Made Plans about WorkStation in Lab
     * Bought WorkStation and Prepared Environments
     * Daily Maintenance
-  * Supervisor: AP Yaojun Wang in CAU
+  * Supervisor: Assistant Professor Wang Yaojun in CAU
 
 * 2021-03~2022-03: **Research Project**
   * College of Information and Electrical Engineering
@@ -100,7 +100,7 @@ Research Experience
     * Improved YOLOv5 with Multi-network Blocks
     * Lightweight Network and Decreased Parameters
     * Developed an Android APP to Detect Apple Leaf Disease 
-  * Supervisor: Assistan Professor Yaojun Wang in CAU
+  * Supervisor: Assistant Professor Wang Yaojun in CAU
   * Area: Computer Vision, One-Stage Detection, Leaf Diseases
 
 * 2019-11~2020-10: **Research Project**
@@ -110,6 +110,7 @@ Research Experience
   * Duties included: 
     * Labeled Datasets of Friuts
     * Developed a Fruits Detection Desktop Application 
+  * Supervisor: Assistant Professor Liu Yunling in CAU
 
 Honors and Awards
 -----
@@ -156,17 +157,20 @@ Others
 
 References
 -----
-* **Yaojun Wang**, **Assistant Professor**
-  * College of Information and Electrical Engineering
-  * China Agricultural University
-  * email: PhD
+>The following rankings are **not** in any order of precedence.
+>The following professors have helped me in different ways, not only academically, but also by teaching me how to be a great student, how to keep a respectful heart for academics and to keep my feet on the ground.
 
-* **Ying Yang**, **Assistant Professor**
+* **Dr.Wang Yaojun**, **Assistant Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
-  * email:
+  * email: 
 
-* **Sha Tao**, **Assistant Professor**
+* **Dr.Yang Ying**, **Assistant Professor**
   * College of Information and Electrical Engineering
   * China Agricultural University
-  * email:taos@cau.edu.cn
+  * email: hbxtyy@126.com
+
+<!-- * **Dr.Tao Sha**, **Assistant Professor**
+  * College of Information and Electrical Engineering
+  * China Agricultural University
+  * email:taos@cau.edu.cn -->
