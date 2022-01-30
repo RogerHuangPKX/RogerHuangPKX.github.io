@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jinze Huang, a Senior Student in China Agricultural University, majors in Computer Science, College of Information and Eletronic Engineering. Since 7 years old, I showed stong interests in Computer, I bought newspaper called "The Computer Newspaper" to keep track of the computer. In 2010, my mom brought me a computer with GT 9800. I usually disassembled and assembled my PC during my breaking time. After The National College Entrance Examination, I chose Computer Science without any hesitation. Whenever I sit in front of the computer, as long as I write code, I will feel energized and full of motivation to learn more.
+Jinze Huang, a Senior Student in China Agricultural University, majors in Computer Science, College of Information and Electrical Engineering. Since 7 years old, I showed stong interests in Computer, I bought newspaper called "The Computer Newspaper" to keep track of the computer. In 2010, my mom brought me a computer with GT 9800. I usually disassembled and assembled my PC during my breaking time. After The National College Entrance Examination, I chose Computer Science without any hesitation. Whenever I sit in front of the computer, as long as I write code, I will feel energized and full of motivation to learn more.
 
 Research Area 
 ======
@@ -27,7 +27,7 @@ Projects
 2. **2021-03~2022-03 Beijing Innovation and Entrepreneurship Project,CAU**
 
     By assisting from Yaojun Wang, my tutor in CAU, I started a project focused on one-stage apple leaf disease detection(Classification and Detection). I used YOLO V5 as base model and approved that. I conßcatenated different networks' blocks to improve accuracy and decrease the net's parameters.
-3. **2019-11-2021-01 School-level innovation and entrepreneurship projects,CAU**
+3. **2019-11-2021-01 School-level Innovation and Entrepreneurship Project,CAU**
 
     This project was started at my first year in university, I developed a desktop application with YOLOv3 to classify different fruits such as apple and banana via images or real-time cameras.
 
