@@ -76,8 +76,8 @@ Research Experience
   * Supervisor: PhD Liping Zhang in IS,CAS
 
 * 2021-12～2022-12: **Baidu Corp., Songguo Project**
-* Baidu Inc
-* Duties included:
+  * Baidu Inc
+  * Duties included:
     * Learn more about Machine learning
     * Participate Contest related to Machine learning
 
@@ -95,7 +95,7 @@ Research Experience
   * College of Information and Electrical Engineering
   * China Agricultural University
   * Beijing Innovation and Entrepreneurship Project
-    * Duties included: 
+  * Duties included: 
     * Labeled Datasets of Plant Pathology 2021 (Four-Catagories)
     * Improved YOLOv5 with Multi-network Blocks
     * Lightweight Network and Decreased Parameters
