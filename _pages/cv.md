@@ -12,7 +12,8 @@ redirect_from:
 Jinze Huang 黄金泽
 =====
 
-Email: jinzehuang@outlook.com ; rogerhuang@cau.edu.cn
+Email: jinzehuang@outlook.com 
+       rogerhuang@cau.edu.cn
 
 
 Education
@@ -67,7 +68,7 @@ CopyRight
 Research Experience
 -----
 * 2022-01～Now: **Research Intern**
-  * Institute of Semiconductors, China Academic of Science
+  * Institute of Semiconductors, **Chinese Academy of Sciences**
   * Group and Lab: Image Perception Computing Project Group, Laboratory of High-Speed Circuits and Neural Networks
   * Duties included: 
     * 2D Human Body Keypoint Detection from Image
@@ -76,7 +77,7 @@ Research Experience
   * Supervisor: Dr.Zhang Liping in IS,CAS
 
 * 2021-12～2022-12: **Baidu Corp., Songguo Project**
-  * Baidu Inc
+  * **Baidu Inc**
   * Duties included:
     * Learn more about Machine learning
     * Participate Contest related to Machine learning
@@ -84,7 +85,7 @@ Research Experience
 
 * 2021-03~2022-03: **WorkStation Maintaince**
   * College of Information and Electrical Engineering
-  * China Agricultural University
+  * **China Agricultural University**
   * Duties included: 
     * Made Plans about WorkStation in Lab
     * Bought WorkStation and Prepared Environments
@@ -93,7 +94,7 @@ Research Experience
 
 * 2021-03~2022-03: **Research Project**
   * College of Information and Electrical Engineering
-  * China Agricultural University
+  * **China Agricultural University**
   * Beijing Innovation and Entrepreneurship Project
   * Duties included: 
     * Labeled Datasets of Plant Pathology 2021 (Four-Catagories)
@@ -105,7 +106,7 @@ Research Experience
 
 * 2019-11~2020-10: **Research Project**
   * College of Information and Electrical Engineering
-  * China Agricultural University
+  * **China Agricultural University**
   * School-level Innovation and Entrepreneurship Project
   * Duties included: 
     * Labeled Datasets of Friuts
@@ -119,8 +120,8 @@ Honors and Awards
   * XunMeng WeiLai Corp., Scholarship 
 
 * Awards
-  * 2021 Interdisciplinary Contest in Modeling Honorable Mention
-  * 2021 Second Prize in the First Artificial Intelligence Challenge (Programming Track) of China Agricultural University
+  * 2021 Interdisciplinary Contest in Modeling Honorable Mention (MCM)
+  * 2021 Second Prize in the First Artificial Intelligence Challenge (Programming) of China Agricultural University
   * 2021 National Student Mathematical Modeling Competition Beijing Region Group A Second Prize
   * 2021 Excellent Award of the 2nd Xingnong Cup Innovation Track of China Agricultural University
   * 2021 Outstanding Volunteers in Online Anti-epidemic in Changping District, Beijing
@@ -135,7 +136,7 @@ Skills
   * Python
   * C/C++
   * Java
-* Other Skills related Computer Science 
+* Other Skills related to Computer Science 
   * Database
   * Algorithm
   * Computer Structures
@@ -158,6 +159,7 @@ Others
 References
 -----
 >The following rankings are **not** in any order of precedence.
+
 >The following professors have helped me in different ways, not only academically, but also by teaching me how to be a great student, how to keep a respectful heart for academics and to keep my feet on the ground.
 
 * **Dr.Wang Yaojun**, **Associated Professor**
