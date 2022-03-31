@@ -8,39 +8,170 @@ redirect_from:
   - /about.html
 ---
 
-Jinze Huang, a Senior Student in China Agricultural University, majors in Computer Science, College of Information and Electrical Engineering. Since 7 years old, I showed stong interests in Computer, I bought newspaper called "The Computer Newspaper" to keep track of the computer. In 2010, my mom brought me a computer with GT 9800. I usually disassembled and assembled my PC during my breaking time. After The National College Entrance Examination, I chose Computer Science without any hesitation. Whenever I sit in front of the computer, as long as I write code, I will feel energized and full of motivation to learn more.
+Jinze Huang 黄金泽
+=====
 
-Research Area 
-======
-Like many other students in my school, I currently focus on Computer Vision.
-* Objects Classification
-* Objects Detection
-* Lightweighting network
+Email: jinzehuang@outlook.com 
+       rogerhuang@cau.edu.cn
 
-Projects
+
+Education
+=====
+* B.S.
+    * School: China Agricultural University, Beijing, China.**(CAU)**
+    * College: College of Information and Electrical Engineering
+    * Major: Computer Science
+    * GPA: 3.60/4.00
+    * Expected Graduation Time: 06,2023
+    * Major Courses:
+      * Mathematics:
+        * Advanced Mathematics I/II
+        * Linear Algebra
+        * Discrete Mathematics I/II/III
+        * SPSS Statistics
+      * Computers:
+        * Computer Architecture I/II
+        * Algorithms and Data Structures 
+        * Computer Networks
+        * Computer System
+      * Languages: 
+        * C/C++
+        * Python
+        * Java
+      * Machine Learning:
+        * Deep Learning and Machine Learning I/II
+      * English:
+        * Academic Writing
+
+Research Interests
 -----
-> Sorted by time
+* **Computer Vision**
+  * Objects Detection
+  * Objects Classification
+  * Agricultural Diseases 
+  * Lightweight Network
+  * Human Reconstruction
+  * Medical Image Processing
 
-1. **2022-01~2022-02 Intern at Institute of Semiconductors, China Academic of Science.**
-
-    At Image Perception Computing Project Group, Laboratory of High-Speed Circuits and Neural Networks, IIS of CAS. I used Nerual Network to recognize human body's bone keypoints, then reconstructed the human from image to 3D Shape. And search the Acupuncture Point by reconstructed 3D Human and reflect back to 2D image.
-2. **2021-03~2022-03 Beijing Innovation and Entrepreneurship Project,CAU**
-
-    By assisting from Yaojun Wang, my tutor in CAU, I started a project focused on one-stage apple leaf disease detection(Classification and Detection). I used YOLO V5 as base model and approved that. I conßcatenated different networks' blocks to improve accuracy and decrease the net's parameters.
-3. **2019-11-2021-01 School-level Innovation and Entrepreneurship Project,CAU**
-
-    This project was started at my first year in university, I developed a desktop application with YOLOv3 to classify different fruits such as apple and banana via images or real-time cameras.
-
-
-Paper
+Publications
 -----
 1. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal pf the ASABE, 2021, Li, Y., Huang, J., Ren, Y., Gao, W., et al. **Under review**
-2. APNET, a tiny one-stage network to classify apple leaf diseases.** **Still in Progress Estimated finish time: 2022-03
 
-
-Software Copyright
+2. APNET, a tiny one-stage network to classify apple leaf diseases. **Still in Progress** Estimated finish time: 2022-03
+  
+CopyRight
 -----
 1. Orchard fruit recognition software based on deep learning V1.0 2021-03
 2. There are 6 still **Under review**. 
 
+Research Experience
+-----
+* 2022-01～Now: **Research Intern**
+  * Institute of Semiconductors, **Chinese Academy of Sciences**
+  * Group and Lab: Image Perception Computing Project Group, Laboratory of High-Speed Circuits and Neural Networks
+  * Duties included: 
+    * 2D Human Body Keypoint Detection from Image
+    * 3D Human Reconstruction 
+    * Acupuncture Point Finding
+  * Supervisor: Dr.Zhang Liping in IS,CAS
 
+* 2021-12～2022-12: **Baidu Corp., Songguo Project**
+  * **Baidu Inc**
+  * Duties included:
+    * Learn more about Machine learning
+    * Participate Contest related to Machine learning
+
+
+* 2021-03~2022-03: **WorkStation Maintaince**
+  * College of Information and Electrical Engineering
+  * **China Agricultural University**
+  * Duties included: 
+    * Made Plans about WorkStation in Lab
+    * Bought WorkStation and Prepared Environments
+    * Daily Maintenance
+  * Supervisor: Associated Professor Wang Yaojun in CAU
+
+* 2021-03~2022-03: **Research Project**
+  * College of Information and Electrical Engineering
+  * **China Agricultural University**
+  * Beijing Innovation and Entrepreneurship Project
+  * Duties included: 
+    * Labeled Datasets of Plant Pathology 2021 (Four-Catagories)
+    * Improved YOLOv5 with Multi-network Blocks
+    * Lightweight Network and Decreased Parameters
+    * Developed an Android APP to Detect Apple Leaf Disease 
+  * Supervisor: Associated Professor Wang Yaojun in CAU
+  * Area: Computer Vision, One-Stage Detection, Leaf Diseases
+
+* 2019-11~2020-10: **Research Project**
+  * College of Information and Electrical Engineering
+  * **China Agricultural University**
+  * School-level Innovation and Entrepreneurship Project
+  * Duties included: 
+    * Labeled Datasets of Friuts
+    * Developed a Fruits Detection Desktop Application 
+  * Supervisor: Associated Professor Liu Yunling in CAU
+
+Honors and Awards
+-----
+* Scholarship
+  * Second Prize of China Agricultural University Academic Scholarship 
+  * XunMeng WeiLai Corp., Scholarship 
+
+* Awards
+  * 2021 Interdisciplinary Contest in Modeling Honorable Mention (MCM)
+  * 2021 Second Prize in the First Artificial Intelligence Challenge (Programming) of China Agricultural University
+  * 2021 National Student Mathematical Modeling Competition Beijing Region Group A Second Prize
+  * 2021 Excellent Award of the 2nd Xingnong Cup Innovation Track of China Agricultural University
+  * 2021 Outstanding Volunteers in Online Anti-epidemic in Changping District, Beijing
+  * 2019 National English Competition for College Students (NECCS) Provincial Excellence Award
+
+Skills
+-----
+* Language:
+  * Chinese (Mandarin)
+  * English 
+* Programming Language:
+  * Python
+  * C/C++
+  * Java
+* Other Skills related to Computer Science 
+  * Database
+  * Algorithm
+  * Computer Structures
+  * Conputer Network
+  * Windows, Linux(Ubuntu), macOS
+
+Students Activities
+-----
+* Beijing Volunteers Service 84 Hours (**Until 2022-01**)
+* 2021 College of Information and Electrical Engineering, School of Fusion Media Center Operations Department
+* 2021 RainbowPoP: A LGBTQ Association in CAU
+* 2020 College of Information and Electrical Engineering Press Center Photography Department
+
+Others
+-----
+* CET-4: 636
+* CET-6: 578
+* Driving License ✅
+
+References
+-----
+>The following rankings are **not** in any order of precedence.
+
+>The following professors have helped me in different ways, not only academically, but also by teaching me how to be a great student, how to keep a respectful heart for academics and to keep my feet on the ground.
+
+* **Dr.Wang Yaojun**, **Associated Professor**
+  * College of Information and Electrical Engineering
+  * China Agricultural University
+  * email: wangyaojun@cau.edu.cn
+
+* **Dr.Yang Ying**, **Associated Professor**
+  * College of Information and Electrical Engineering
+  * China Agricultural University
+  * email: hbxtyy@126.com
+
+<!-- * **Dr.Tao Sha**, **Associated Professor**
+  * College of Information and Electrical Engineering
+  * China Agricultural University
+  * email:taos@cau.edu.cn -->
