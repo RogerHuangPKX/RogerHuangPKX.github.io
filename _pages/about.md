@@ -82,6 +82,27 @@ Email: jinzehuang@outlook.com
 * Constructed a YOLO v3 classification and recognition model with Darknet53 as the feature extraction network and analyzed the output of the model’s predicted bounding box;
 * Improved the network structure of the recognition model based on the analysis results to achieve the fruit classification and recognition function in complex scenes 
 
+## PRACTICAL EXPERIENCE
+### Institute of Semiconductors, Chinese Academy of Sciences
+*Research Intern, Advisor: Dr. Liping Zhang*
+*Beijing, China 01/2022-02/2022*
+* Worked on human body reconstruction based on OpenPose and SMPL-X in the Image Perception Computing Project Group at the Laboratory of High-Speed Circuits and Neural Networks, aiming to achieve the functions of finding acupuncture points and implementing acupuncture and moxibustion of the mechanical arm; 
+* Participated in the deployment, research, and loss reduction of the OpenPose part of work, responsible for 2D human body keypoints detection, 3D human body reconstruction, and acupuncture points finding
+
+### Computer Vision Group of Smart Agriculture Lab, CAU
+*Lab Technician, Advisor: Dr. Yaojun Wang*
+*Beijing, China 09/2021-Present*
+* Purchased a workstation for the lab and made a configuration plan; 
+* Worked out an integrated solution for the laboratory workstation, including NAS and network switching equipment;
+* Built a multi-person shared server system to achieve simultaneous use by multiple users;
+* Responsible for the routine maintenance and repair of the workstation 
+
+### CAU-Baidu Inc. Songguo Talent Training Practice Base
+*Trainee*
+*Beijing, China 12/2021-12/2022*
+* Learned about machine learning algorithms and their applications in the Songguo project;
+* Participated in a machine learning contest  
+
 
 CopyRight
 -----
@@ -135,6 +156,8 @@ Research Experience
     * Labeled Datasets of Friuts
     * Developed a Fruits Detection Desktop Application 
   * Supervisor: Associated Professor Liu Yunling in CAU
+
+
 
 Honors and Awards
 -----
