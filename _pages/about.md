@@ -13,7 +13,7 @@ Email: jinzehuang@outlook.com
 
 ## Education
 * B.S.
-    * School: China Agricultural University, Beijing, China.**(CAU)**
+    * **China Agricultural University, Beijing, China.**
     * College: College of Information and Electrical Engineering
     * Major: Computer Science
     * GPA: 3.62/4.00
