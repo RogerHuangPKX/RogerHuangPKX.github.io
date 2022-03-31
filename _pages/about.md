@@ -144,14 +144,14 @@ Email: jinzehuang@outlook.com
 * Led the photography team to complete the assigned thematic photography work 
 
 ## ACHIEVEMENTS/AWARDS
-* Bronze Award of the 3nd Xingnong Cup Innovation Track of China * cultural University	2021
+* Bronze Award of the 3nd Xingnong Cup Innovation Track of China Agricultural University	2021
 * Xun Meng Wei Lai Corp. Scholarship	2021
 * Second Prize of China Agricultural University Academic Scholarship	2020
-* Honorable Mention in 2021 Interdisciplinary Contest in Modeling (ICM)	* 
-* Second Prize in the First Artificial Intelligence Challenge * gramming) of China Agricultural University	2021	
-* Second Prize in 2021 National Student Mathematical Modeling * etition, Beijing Region Group A 	2021	
-* Excellent Award of the 2nd Xingnong Cup Innovation Track of China * cultural University	2021	
-* Outstanding Volunteers in Online Anti-epidemic in Changping District, * ing	2021	
+* Honorable Mention in 2021 Interdisciplinary Contest in Modeling (ICM)	
+* Second Prize in the First Artificial Intelligence Challenge  (Programming) of China Agricultural University	2021	
+* Second Prize in 2021 National Student Mathematical Modeling Competition, Beijing Region Group A 
+* Excellent Award of the 2nd Xingnong Cup Innovation Track of China Agricultural University	2021	
+* Outstanding Volunteers in Online Anti-epidemic in Changping District, Beijing	2021	
 * Provincial Excellence Award in 2019 National English Competition for College Students (NECCS) 	2019
 
 
