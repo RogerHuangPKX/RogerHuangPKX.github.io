@@ -46,11 +46,12 @@ Email: jinzehuang@outlook.com
 
 ## ACADEMIC ACHIEVEMENTS 
 ### *Publication:*
-1. Li, Y., **Huang, J.**, Ren, Y., Gao, W., et al. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal of the ASABE, 2021, *Under review*
+* Li, Y., **Huang, J.**, Ren, Y., Gao, W., et al. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal of the ASABE, 2021, *Under review*
+
 ### *Working Papers:*
-1. A comprehensive and systematic look up into object detection datasets: A review
-2. Apple leaf diseases dataset: A dataset with high-quality annotation for objects detection in Agriculture
-3. APNet: A tiny network to detect apple leaf disease with high accuracy and less parameters
+* A comprehensive and systematic look up into object detection datasets: A review
+* Apple leaf diseases dataset: A dataset with high-quality annotation for objects detection in Agriculture
+* APNet: A tiny network to detect apple leaf disease with high accuracy and less parameters
 
 ### *CopyRight*
 * Liu, Y., Wang, Y., **Huang, J.** (2021). Orchard fruit recognition software based on deep learning V1.0 (Registration No.: 2021SRBJ0546). National Copyright Administration of P.R. China.
