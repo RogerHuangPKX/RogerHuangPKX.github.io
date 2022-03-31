@@ -37,6 +37,8 @@ Email: jinzehuang@outlook.com
         * Deep Learning and Machine Learning I/II
       * English:
         * Academic Writing
+        * TOEFL:100/120
+        * CET6:578/710
 
 ## RESEARCH INTERESTS
 * **Computer Vision**
