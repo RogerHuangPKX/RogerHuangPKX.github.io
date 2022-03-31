@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-=====
 
 Email: jinzehuang@outlook.com 
        rogerhuang@cau.edu.cn
@@ -42,23 +41,33 @@ Email: jinzehuang@outlook.com
         * Academic Writing
 
 ## RESEARCH INTERESTS
------
 * **Computer Vision**
   * Objects Detection
   * Digital Agriculture
   * Lightweighted CNN Network
 
 ## ACADEMIC ACHIEVEMENTS 
------
 ### *Publication:*
 1. Li, Y., **Huang, J.**, Ren, Y., Gao, W., et al. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal of the ASABE, 2021, *Under review*
 ### *Working Papers:*
 1. A comprehensive and systematic look up into object detection datasets: A review
 2. Apple leaf diseases dataset: A dataset with high-quality annotation for objects detection in Agriculture
 3. APNet: A tiny network to detect apple leaf disease with high accuracy and less parameters
+### *CopyRight*
+* Liu, Y., Wang, Y., **Huang, J.** (2021). Orchard fruit recognition software based on deep learning V1.0 (2021SRBJ0546). National Copyright Administration of P.R. China.
+* **Huang, J.** (2021). Conference room rental management system V1.0 (Registration No.: 2021SRBJ1136). National Copyright Administration of P.R. China.
+* **Huang, J.** (2021). Agricultural product storage management system V1.0 (Registration No.: 2021SRBJ1118). National Copyright Administration of P.R. China.
+* **Huang, J.** (2021). Rice and wheat planting simulation software V1.0 (Registration No.: 2021SRBJ1129). National Copyright Administration of P.R. China.
+* **Huang, J.** (2021). Multifunctional text editor software V1.0 (Registration No.: 2021SRBJ1112). National Copyright Administration of P.R. China.
+* **Huang, J.** (2021). Chinese Ethnic Culture Park Tour Guide System V1.0 (Registration No.: 2021SRBJ1127). National Copyright Administration of P.R. China.
+
+
+
+
+
+
 
 ## RESEARCH EXPERIENCE
------
 ### Label Apple Leaf Disease in Corporation with Senior-High School Students
 *Project Leader, Advisor: Dr. Yaojun Wang*
 *Beijing, China 02/2022-Present*
@@ -104,7 +113,7 @@ Email: jinzehuang@outlook.com
 * Participated in a machine learning contest  
 
 
-CopyRight
+
 -----
 1. Orchard fruit recognition software based on deep learning V1.0 2021-03
 2. There are 6 still **Under review**. 
