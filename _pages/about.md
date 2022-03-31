@@ -61,7 +61,7 @@ Email: jinzehuang@outlook.com
 * **Huang, J.** (2021). Multifunctional text editor software V1.0 (Registration No.: 2021SRBJ1112). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Chinese Ethnic Culture Park Tour Guide System V1.0 (Registration No.: 2021SRBJ1127). National Copyright Administration of P.R. China.
 
-### Patent
+### *Patent*
 **Huang, J.** (2017). Automatic counting hula hoop (Patent No.: CN206577289U). China National Intellectual Property Administration.
 
 
