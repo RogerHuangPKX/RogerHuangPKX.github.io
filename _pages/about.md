@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinze Huang's Self Introduction 黄金泽的自我介绍"
+title: "Jinze Huang 黄金泽"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Jinze Huang 黄金泽
 =====
 
 Email: jinzehuang@outlook.com 
        rogerhuang@cau.edu.cn
 
 
-Education
-=====
+## Education
 * B.S.
     * School: China Agricultural University, Beijing, China.**(CAU)**
     * College: College of Information and Electrical Engineering
     * Major: Computer Science
-    * GPA: 3.60/4.00
+    * GPA: 3.62/4.00
     * Expected Graduation Time: 06,2023
     * Major Courses:
       * Mathematics:
@@ -43,22 +41,48 @@ Education
       * English:
         * Academic Writing
 
-Research Interests
+## RESEARCH INTERESTS
 -----
 * **Computer Vision**
   * Objects Detection
-  * Objects Classification
-  * Agricultural Diseases 
-  * Lightweight Network
-  * Human Reconstruction
-  * Medical Image Processing
+  * Digital Agriculture
+  * Lightweighted CNN Network
 
-Publications
+## ACADEMIC ACHIEVEMENTS 
 -----
-1. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal pf the ASABE, 2021, Li, Y., Huang, J., Ren, Y., Gao, W., et al. **Under review**
+### *Publication:*
+1. Li, Y., **Huang, J.**, Ren, Y., Gao, W., et al. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal of the ASABE, 2021, *Under review*
+### *Working Papers:*
+1. A comprehensive and systematic look up into object detection datasets: A review
+2. Apple leaf diseases dataset: A dataset with high-quality annotation for objects detection in Agriculture
+3. APNet: A tiny network to detect apple leaf disease with high accuracy and less parameters
 
-2. APNET, a tiny one-stage network to classify apple leaf diseases. **Still in Progress** Estimated finish time: 2022-03
-  
+## RESEARCH EXPERIENCE
+-----
+### Label Apple Leaf Disease in Corporation with Senior-High School Students
+*Project Leader, Advisor: Dr. Yaojun Wang*
+*Beijing, China 02/2022-Present*
+* Formulated guidelines for labeling agricultural crop datasets;
+* Developed a high school-university cooperative model for dataset labeling;
+* Explained relevant knowledge of deep learning to high school students and guided them to label the datasets
+
+### Research on Identification and Classification of Plant Diseases and Insect Pests in Complex Scenes (Beijing College Students Innovation and Entrepreneurship Program)
+*Project Leader, Advisor: Dr. Yaojun Wang*
+*Beijing, China 03/2021-03/2022*
+* Labeled datasets of four categories obtained from the Plant Pathology 2021; 
+* Improved YOLOv5 with multi-network blocks to achieve a lightweight network and decreased parameters;
+* Developed an Android application to detect apple leaf diseases;
+* Analyzed the image data of diseases and insect pests of specific crops in complex scenes based on machine learning algorithms;
+* Conducted machine learning of those images by using and optimizing the existing framework, training set, and algorithms and gave corresponding feedback 
+
+### Deep Learning-Based Orchard Fruit Recognition Software (CAU Undergraduate Research Program)
+*Project Leader, Advisor: Prof. Yunling Liu*
+*Beijing, China 03/2020-03/2021*
+* Labeled datasets of different types of fruit and developed a fruit detection desktop application;
+* Constructed a YOLO v3 classification and recognition model with Darknet53 as the feature extraction network and analyzed the output of the model’s predicted bounding box;
+* Improved the network structure of the recognition model based on the analysis results to achieve the fruit classification and recognition function in complex scenes 
+
+
 CopyRight
 -----
 1. Orchard fruit recognition software based on deep learning V1.0 2021-03
