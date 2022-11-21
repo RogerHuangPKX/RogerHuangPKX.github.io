@@ -89,7 +89,11 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
 ## PRACTICAL EXPERIENCE
 
 ### Pfizer
-*Intern in the Medical Department *
+*Intern in the Medical Department*
+*Beijing, China*    04/2022-10/2022
+* Assisted in preparing and organizing ASCO meetings; 
+*	Helped with the compilation of the 2022 diagnostic criteria for breast cancer in China;
+*	Developed a small deep learning-based application, using the decision tree algorithm to assist with breast disease diagnoses and help patients obtain the most suitable treatment plans.
 
 ### Institute of Semiconductors, Chinese Academy of Sciences
 *Research Intern, Advisor: Dr. Liping Zhang*
@@ -142,6 +146,7 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
 * Led the photography team to complete the assigned thematic photography work 
 
 ## ACHIEVEMENTS/AWARDS
+* Third-class China Agricultural University Academic Scholarship 2022
 * Bronze Award of the 3nd Xingnong Cup Innovation Track of China Agricultural University	2021
 * Xun Meng Wei Lai Corp. Scholarship	2021
 * Second Prize of China Agricultural University Academic Scholarship	2020
