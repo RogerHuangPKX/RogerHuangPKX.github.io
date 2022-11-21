@@ -10,7 +10,7 @@ redirect_from:
 
 Email: jinzehuang@outlook.com 
 
-You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.pdf) . 
+You can download my CV [here](https://rogerhuangpkx.github.io/files/cv.pdf) . 
 ## Education
 * B.ENG.
     * **China Agricultural University, Beijing, China.**
