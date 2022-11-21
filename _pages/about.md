@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 Email: jinzehuang@outlook.com 
-       rogerhuang@cau.edu.cn
 
+You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.pdf) . 
 ## Education
-* B.S.
+* B.Eng.
     * **China Agricultural University, Beijing, China.**
     * College: College of Information and Electrical Engineering
     * Major: Computer Science
-    * GPA: 3.62/4.00
+    * GPA: 3.64/4.00
     * Expected Graduation Time: 06,2023
     * Major Courses:
       * Mathematics:
