@@ -5,7 +5,7 @@ permalink: /publication/Dise
 excerpt: 'Potato is one of China most promising high-production cash crops. However, the frequent occurrence of potato diseases and insect pests directly leads to a considerable crop reduction or low yield, restricting the agricultural economy development.'
 date: 2022-06-01
 venue: '2022 10th International Conference on Agro-geoinformatics (Agro-Geoinformatics)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3-1.pdf'
 citation: 'Y. Wang et al., "DiseSniper: A potato disease identification system based on the ResNet model," 2022 10th International Conference on Agro-geoinformatics (Agro-Geoinformatics), 2022, pp. 1-4, doi: 10.1109/Agro-Geoinformatics55649.2022.9859214.'
 ---
 
