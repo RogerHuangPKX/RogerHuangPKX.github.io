@@ -60,23 +60,24 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
 * **Huang, J.** (2021). Rice and wheat planting simulation software V1.0 (Registration No.: 2021SRBJ1129). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Multifunctional text editor software V1.0 (Registration No.: 2021SRBJ1112). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Chinese Ethnic Culture Park Tour Guide System V1.0 (Registration No.: 2021SRBJ1127). National Copyright Administration of P.R. China.
+* **Jinze Huang** (2022). 3D Pac-Man Software V1.0 (Registration No.: 2022SR0540581). National Copyright Administration of P.R. China. 
+* **Jinze Huang** (2022). Multi-core Cache Simulation Software V1.0 (Registration No.: 2022SR0540754). National Copyright Administration of P.R. China.
+
 
 ## RESEARCH EXPERIENCE
 ### Label Apple Leaf Disease in Corporation with Senior-High School Students
 *Project Leader, Advisor: Dr. Yaojun Wang*
-*Beijing, China*  02/2022-Present
+*Beijing, China*  02/2022-05/2022
 * Formulated guidelines for labeling agricultural crop datasets;
-* Developed a high school-university cooperative model for dataset labeling;
-* Explained relevant knowledge of deep learning to high school students and guided them to label the datasets
+* Developed a high school-university cooperative model to instruct high school students on labeling the datasets
 
 ### Research on Identification and Classification of Plant Diseases and Insect Pests in Complex Scenes (Beijing College Students Innovation and Entrepreneurship Program)
 *Project Leader, Advisor: Dr. Yaojun Wang*
 *Beijing, China*   03/2021-03/2022
-* Labeled datasets of four categories obtained from the Plant Pathology 2021; 
-* Improved YOLOv5 with multi-network blocks to achieve a lightweight network and decreased parameters;
 * Developed an Android application to detect apple leaf diseases;
-* Analyzed the image data of diseases and insect pests of specific crops in complex scenes based on machine learning algorithms;
-* Conducted machine learning of those images by using and optimizing the existing framework, training set, and algorithms and gave corresponding feedback 
+* Analyzed the image data of diseases and insect pests of specific crops in complex scenes based on machine learning algorithms to optimize existing frameworks, training sets, and algorithms 
+* Improved YOLOv5 with multi-network blocks to achieve a lightweight network and decreased parameters
+
 
 ### Deep Learning-Based Orchard Fruit Recognition Software (CAU Undergraduate Research Program)
 *Project Leader, Advisor: Prof. Yunling Liu*
@@ -86,9 +87,13 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
 * Improved the network structure of the recognition model based on the analysis results to achieve the fruit classification and recognition function in complex scenes 
 
 ## PRACTICAL EXPERIENCE
+
+### Pfizer
+*Intern in the Medical Department *
+
 ### Institute of Semiconductors, Chinese Academy of Sciences
 *Research Intern, Advisor: Dr. Liping Zhang*
-*Beijing, China*    01/2022-02/2022
+*Beijing, China*    01/2022-03/2022
 * Worked on human body reconstruction based on OpenPose and SMPL-X in the Image Perception Computing Project Group at the Laboratory of High-Speed Circuits and Neural Networks, aiming to achieve the functions of finding acupuncture points and implementing acupuncture and moxibustion of the mechanical arm; 
 * Participated in the deployment, research, and loss reduction of the OpenPose part of work, responsible for 2D human body keypoints detection, 3D human body reconstruction, and acupuncture points finding
 
