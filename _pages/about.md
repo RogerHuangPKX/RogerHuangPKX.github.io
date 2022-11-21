@@ -12,7 +12,7 @@ Email: jinzehuang@outlook.com
 
 You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.pdf) . 
 ## Education
-* B.Eng.
+* B.ENG.
     * **China Agricultural University, Beijing, China.**
     * College: College of Information and Electrical Engineering
     * Major: Computer Science
@@ -23,7 +23,6 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
         * Advanced Mathematics I/II
         * Linear Algebra
         * Discrete Mathematics I/II/III
-        * SPSS Statistics
       * Computers:
         * Computer Architecture I/II
         * Algorithms and Data Structures 
@@ -32,41 +31,35 @@ You can download my CV [here](https://https://rogerhuangpkx.github.io/files/cv.p
       * Languages: 
         * C/C++
         * Python
-        * Java
       * Machine Learning:
         * Deep Learning and Machine Learning I/II
-      * English:
-        * Academic Writing
-        * TOEFL:100/120
-        * CET6:578/710
+        * Statistical Machine Learning
+        * Digital Image Processing 
 
 ## RESEARCH INTERESTS
 * **Computer Vision**
   * Objects Detection
   * Digital Agriculture
-  * Lightweighted CNN Network
+  * Dataset
 
 ## ACADEMIC ACHIEVEMENTS 
 ### *Publication:*
-* Li, Y., **Huang, J.**, Ren, Y., Gao, W., et al. Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images, Journal of the ASABE, 2021, *Under review*
+* Yan Li, **Jinze Huang**, Yan Ren, Wan Gao, Jing Jia, Sha Tao, Xinliang Liu. “Comparison of Inversion Methods for Maize Canopy Time-series LAI Based on SupReME Reconstructed Images.” Journal of the ASABE. 65(5): 1019-1028. (doi: 10.13031/ja.15011) @2022 
+* Yaojun Wang, Yanyan Zhao, Jiawen Zhang, Yongqiang Qian, **Jinze Huang**, Qingxin Zhao, Zhiyi Zhao, Jingbo Zhao. “DiseSniper: A potato disease identification system based on the ResNet model.” In the 2022 10th Intl. Conf. of Agro-Geoinformatics (Agro-Geoinformatics 2022), Quebec City, QC, Canada, 11-14 July 2022. 
+* **Jinze Huang**, Guowei Xu, Weiting Zhao, Qingxin Zhao, Xiaoqi Wang, Jing Niu, Yaojun Wang, Jingbo Zhao. “CSA-YOLO: a high-performance apple disease detection model.” Computers and Electronics in Agriculture. Under Review.
+* **Jinze Huang**, Guowei Xu, Yaojun Wang. “A comprehensive and systematic look up into object detection datasets: A review.” Application of Electronic Technique. Under Review.
 
-### *Working Papers:*
-* A comprehensive and systematic look up into object detection datasets: A review
-* Apple leaf diseases dataset: A dataset with high-quality annotation for objects detection in Agriculture
-* APNet: A tiny network to detect apple leaf disease with high accuracy and less parameters
-
-### *CopyRight*
+### *Patents*
+* Yaojun Wang,**Jinze Huang**, Jiawen Zhang, Crop data collection method, system, and device, filed on April 8, 2022, allowed on July 1, 2022, under China Patent Application No. CN202210369199.X
+* Yaojun Wang, Jiawen Zhang, Jinze Huang, Crop disease identification method, device, equipment and storage medium, filed on April 12, allowed on July 19, 2022, under China Patent Application No.: CN202210383553.4 
+* Jinze Huang, Automatic counting hula hoop, filed on December 26, 2016, allowed on October 24, 2017, under China Patent Application No.: CN201621475222.X
+### *CopyRights*
 * Liu, Y., Wang, Y., **Huang, J.** (2021). Orchard fruit recognition software based on deep learning V1.0 (Registration No.: 2021SRBJ0546). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Conference room rental management system V1.0 (Registration No.: 2021SRBJ1136). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Agricultural product storage management system V1.0 (Registration No.: 2021SRBJ1118). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Rice and wheat planting simulation software V1.0 (Registration No.: 2021SRBJ1129). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Multifunctional text editor software V1.0 (Registration No.: 2021SRBJ1112). National Copyright Administration of P.R. China.
 * **Huang, J.** (2021). Chinese Ethnic Culture Park Tour Guide System V1.0 (Registration No.: 2021SRBJ1127). National Copyright Administration of P.R. China.
-
-### *Patent*
-* **Huang, J.** (2017). Automatic counting hula hoop (Patent No.: CN206577289U). China National Intellectual Property Administration.
-
-
 
 ## RESEARCH EXPERIENCE
 ### Label Apple Leaf Disease in Corporation with Senior-High School Students
